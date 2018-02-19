@@ -1,0 +1,5 @@
+name = TBC Node Page Access
+description = Control which user roles can view a node page for each content type
+core = 7.x
+package = TBC
+dependencies[] = node
